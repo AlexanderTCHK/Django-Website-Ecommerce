@@ -7,7 +7,7 @@ This is a very simple e-commerce website built with Django.
 
 ## Quick demo
 
-[![alt text](https://s6.gifyu.com/images/ScreenRecorderProject1450e9af15b46fbf2.gif "Logo")]()
+[![alt text](https://media.giphy.com/media/Tj1jWMkBcdMgbbHVWT/giphy.gif "Logo")]()
 
 ---
 
